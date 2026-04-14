@@ -1,0 +1,87 @@
+{
+  "school": "Moringa School",
+  "year": 2026,
+  "course": "Data Science",
+  "students": [
+    {
+      "std_id": 101,
+      "name": "Francis Wairagu",
+      "age": 34,
+      "email": "francis.wairage@student.moringaschool.com",
+      "gender": "Male",
+      "TM": "TM 1",
+      "address": {
+        "code": "00100",
+        "city": "Nairobi",
+        "county": "Nairobi",
+        "box_no": "2001"
+      },
+      "phone": "0700000001",
+      "module": 1,
+      "units": {
+          "unit_1": "variables",
+          "unit_2": "data types",
+          "unit_3": "control flows",
+          "unit_4": "loops",
+          "unit_5": "functions"
+      },
+      "guardian": {
+          "name": "Waraigu Snr",
+          "phone": "0700000002",
+          "relationship": "Father"
+      },
+      "next_of_kin": {
+          "name": "Mrs. Waraigu",
+          "phone": "0700000003",
+          "relationship": "Mother"
+      },
+      "payment": {
+          "amount": 200000,
+          "installments": 4,
+          "balance": 106000,
+          "payment_mode": "Mpesa"
+      }
+    },
+    {
+      "std_id": 102,
+      "name": "Francis Wairagu",
+      "age": 34,
+      "email": "francis.wairage@student.moringaschool.com",
+      "gender": "Male",
+      "TM": "TM 1",
+      "address": {
+        "code": "00100",
+        "city": "Nairobi",
+        "county": "Nairobi",
+        "box_no": "2001"
+      },
+      "phone": "0700000001",
+      "module": 1,
+      "units": {
+          "unit_1": "variables",
+          "unit_2": "data types",
+          "unit_3": "control flows",
+          "unit_4": "loops",
+          "unit_5": "functions"
+      },
+      "guardian": {
+          "name": "Waraigu Snr",
+          "phone": "0700000002",
+          "relationship": "Father"
+      },
+      "next_of_kin": {
+          "name": "Mrs. Waraigu",
+          "phone": "0700000003",
+          "relationship": "Mother"
+      },
+      "payment": {
+          "amount": 200000,
+          "installments": 4,
+          "balance": 106000,
+          "payment_mode": "Mpesa"
+      }
+    }
+
+  ]
+
+}
