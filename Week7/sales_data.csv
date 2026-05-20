@@ -1,0 +1,51 @@
+customer_id,customer_name,customer_email,product_id,product_name,product_price,sale_id,quantity,sale_date
+1001,John Smith,john.smith@email.com,1234,T-Shirt (Large),19.99,98765,2,2024-05-14
+1002,Jane Doe,jane.doe@email.com,4567,Laptop,899.99,12345,1,2024-05-13
+1003,Michael Lee,michael.lee@email.com,7890,Coffee Mug,7.99,54321,3,2024-05-12
+1004,Alice Jones,alice.jones@email.com,9871,Headphones,49.99,78901,2,2024-05-11
+1005,David Lee,david.lee@email.com,2345,Mouse,14.99,34567,1,2024-05-10
+1006,Sarah Miller,sarah.miller@email.com,6789,Keyboard,29.99,56789,1,2024-05-14
+1007,Emily Brown,emily.brown@email.com,3456,Wireless Speaker,79.99,90123,1,2024-05-13
+1008,Robert Hernandez,robert.hernandez@email.com,8901,Smartwatch,199.99,45678,2,2024-05-12
+1009,Olivia Garcia,olivia.garcia@email.com,5678,Book,14.95,12345,3,2024-05-11
+1010,Daniel Young,daniel.young@email.com,2349,Water Bottle,9.99,78901,1,2024-05-10
+1011,William Anderson,william.anderson@email.com,3450,Gaming Headset,99.99,12398,1,2024-05-14
+1012,Sophia Taylor,sophia.taylor@email.com,5672,Tablet,249.99,78541,2,2024-05-13
+1013,Christopher Walker,christopher.walker@email.com,8790,Desk Lamp,24.99,34987,1,2024-05-12
+1014,Elizabeth Moore,elizabeth.moore@email.com,1298,Backpack,49.99,90785,3,2024-05-11
+1015,Benjamin Garcia,benjamin.garcia@email.com,6543,Fitness Tracker,39.99,56321,2,2024-05-10
+1016,Ashley Rodriguez,ashley.rodriguez@email.com,9012,Portable Charger,19.99,12987,1,2024-05-14
+1017,Matthew Hernandez,matthew.hernandez@email.com,7895,Camera Lens,299.99,45987,1,2024-05-13
+1018,Katherine Jones,katherine.jones@email.com,2567,Notebook,9.99,78321,4,2024-05-12
+1019,Daniel Johnson,daniel.johnson@email.com,3489,Protein Powder,24.95,34569,2,2024-05-11
+1020,Victoria Lopez,victoria.lopez@email.com,1032,Yoga Mat,34.99,90143,1,2024-05-10
+1021,Charles Lee,charles.lee@email.com,7832,Gaming Mouse,49.99,78951,2,2024-05-14
+1022,Evelyn Young,evelyn.young@email.com,2310,Air Purifier,129.99,34789,1,2024-05-13
+1023,Brian Miller,brian.miller@email.com,9056,Wireless Headphones,74.99,90321,1,2024-05-12
+1024,Amanda Hernandez,amanda.hernandez@email.com,4589,Desk Organizer,14.99,56987,3,2024-05-11
+1025,David Wilson,david.wilson@email.com,1789,Watch,199.99,12567,1,2024-05-10
+1026,Nicole Garcia,nicole.garcia@email.com,3012,Travel Mug,12.99,78143,2,2024-05-14
+1027,Joseph Thomas,joseph.thomas@email.com,6785,Projector,349.99,45321,1,2024-05-13
+1028,Emily Sanchez,emily.sanchez@email.com,8903,Journal,9.99,90785,4,2024-05-12
+1029,Andrew Brown,andrew.brown@email.com,5621,Water Bottle (Large),14.95,34598,2,2024-05-11
+1030,Melissa Lopez,melissa.lopez@email.com,1932,Lunch Box,19.99,90129,1,2024-05-10
+1031,Steven Clark,steven.clark@email.com,3450,Gaming Headset,99.99,34567,2,2024-05-14
+1032,Christina Anderson,christina.anderson@email.com,5672,Tablet,249.99,89012,1,2024-05-13
+1033,Mark Robinson,mark.robinson@email.com,8790,Desk Lamp,24.99,78543,3,2024-05-12
+1034,Alexis Lewis,alexis.lewis@email.com,1298,Backpack,49.99,56901,2,2024-05-11
+1035,Anthony Hernandez,anthony.hernandez@email.com,6543,Fitness Tracker,39.99,12349,1,2024-05-10
+1036,Jessica Young,jessica.young@email.com,9012,Portable Charger,19.99,78932,4,2024-05-14
+1037,Ryan Walker,ryan.walker@email.com,7895,Camera Lens,299.99,34785,2,2024-05-13
+1038,Sarah Jones,sarah.jones@email.com,2567,Notebook,9.99,90321,1,2024-05-12
+1039,Michael Lopez,michael.lopez@email.com,3489,Protein Powder,24.95,56789,3,2024-05-11
+1040,Elizabeth Garcia,elizabeth.garcia@email.com,1032,Yoga Mat,34.99,12901,2,2024-05-10
+1041,Daniel Wright,daniel.wright@email.com,7832,Gaming Mouse,49.99,78321,1,2024-05-14
+1042,Isabella Moore,isabella.moore@email.com,2310,Air Purifier,129.99,45901,2,2024-05-13
+1043,David Sanchez,david.sanchez@email.com,9056,Wireless Headphones,74.99,12789,3,2024-05-12
+1044,Catherine Wilson,catherine.wilson@email.com,4589,Desk Organizer,14.99,78567,1,2024-05-11
+1045,Christopher Thomas,christopher.thomas@email.com,1789,Watch,199.99,34123,2,2024-05-10
+1046,Margaret Garcia,margaret.garcia@email.com,3012,Travel Mug,12.99,90345,4,2024-05-14
+1047,Benjamin Brown,benjamin.brown@email.com,6785,Projector,349.99,56789,1,2024-05-13
+1048,Evelyn Lopez,evelyn.lopez@email.com,8903,Journal,9.99,12907,3,2024-05-12
+1049,Matthew Hernandez,matthew.hernandez@email.com,5621,Water Bottle (Large),14.95,78123,2,2024-05-11
+1050,Amanda Clark,amanda.clark@email.com,1932,Lunch Box,19.99,34569,1,2024-05-10
